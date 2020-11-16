@@ -1,0 +1,4 @@
+#Sat Nov 07 23:36:32 IST 2020
+base.0=/Users/bala/Documents/GitHub/fluttersamples/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

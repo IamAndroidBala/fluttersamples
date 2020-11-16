@@ -3,9 +3,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter_samples/HomePage.dart';
 
-void main() {
-  runApp(FlutterApp());
-}
+void main() => runApp(FlutterApp());
 
 class FlutterApp extends StatelessWidget {
 
@@ -31,8 +29,6 @@ class SplashScreen extends StatefulWidget {
 }
 
 class _SplashScreenState extends State<SplashScreen>{
-
-  bool _isLoggedIn =  false;
 
   @override
   void initState() {
